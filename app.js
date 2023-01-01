@@ -1,3 +1,5 @@
+//basit oyun uygulamasi
+
 const daireler = document.querySelectorAll(".col-4");
 const kelebek = document.querySelector(".resim");
 const timer = document.getElementById("timer");
